@@ -4,9 +4,9 @@ Automated Reaction and Computer-Anticipated Network Security
 ARCANeS is a reactive and proactive security platform based on SIEM capabilities enhanced by SDN paradigm. 
 This project is intended to be completely open-source, but sources will be released only when a viable 1.0 version will be operational.
 
-[TODO] ELK integration 
-[TODO] New GUI design
-[TODO] Out-of-box package 
+  [TODO] ELK integration 
+  [TODO] New GUI design
+  [TODO] Out-of-box package 
 
 
 I 'd be glad to answer any question on this project, its status or its technical details. Hence don't hesitate to mail me.
