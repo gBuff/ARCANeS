@@ -18,5 +18,5 @@ I'm currently looking for a dumb ethernet hub/network tap with a reasonable pric
 Research Project started during my internship in Singapore University of Technology and Design. 
 Available packages for software demo are composed by Mininet scripts and POX applications' sample both written in Python(v2.7).
 
-> Mininet scripts are used for setting up the network topology 
+> Mininet scripts are used for setting up the network topology. 
 > POX applications are developed to make components react to many events such as cyberattacks.
